@@ -1,0 +1,111 @@
+
+
+
+* {
+    margin: 10;
+    padding: 10;
+    box-sizing: border-box;
+}
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif
+    line-heigh: 1.6;
+    
+
+.heading {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    background: #333;
+    color: #fff;
+    padding: 0.5rem 0;
+    margin-bottom: 0;
+    position: relative;
+    }
+}
+
+.profile {
+    display: inline;1}
+
+.profile .profile-pix {
+    float: left;
+    border-radius: 50%;
+    border: 5px solid rgb(55, 232, 55);
+    width: 100%;
+    max-width: 250px;
+    margin: 10px;
+}
+
+
+.description {
+    text-align: left;
+    margin-left: 10px;
+    margin-left: 10px;
+}
+
+nav ul {
+    background-color: #a84592;
+    overflow: hidden;
+    color: rgb(148, 13, 13);
+    padding: 0;
+    text-align: center;
+    margin-bottom: 10;
+    margin-top: 0;
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    padding: 0px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 20px;
+    display: inline-block;
+}
+
+.biodata {
+    color: #a84592;  
+}
+
+.name {
+    color: blue;
+}
+
+.content {
+    color:rgb(5, 241, 5);
+    font-weight: bold;
+}
+
+div img {
+    height: 250px;
+    border-radius: 50%;
+    float: left;
+    border: 5px solid pink;
+    width: 100%;
+    max-width: 250px;
+    margin: 10px;
+}
+
+
+.friends {
+    color: rgb(161, 20, 67);
+}
+
+.friend-dfn {
+    color: green;
+}
+
+.aspiration {
+    color:royalblue
+   
+}
+
+.asp-dfn {
+color:seagreen
+   
+}
+
+p {
+    margin: 10px;
+}
